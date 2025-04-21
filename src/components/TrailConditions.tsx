@@ -60,17 +60,17 @@ const trekHighlights = [
   {
     title: 'Secret Spot',
     description: 'A hidden viewpoint known only to locals, offering unique views of the valley below.',
-    image: 'https://images.pexels.com/photos/2387869/pexels-photo-2387869.jpeg'
+    image: '/cave2.png'
   },
   {
     title: 'Photo Opportunity',
     description: 'Perfect spots for capturing the majestic fort structure and surrounding landscapes.',
-    image: 'https://images.pexels.com/photos/2387871/pexels-photo-2387871.jpeg'
+    image: '/photo.png'
   },
   {
     title: 'Historical Significance',
     description: 'Built in the 13th century, Kothaligad served as a crucial watchtower in the Maratha empire.',
-    image: 'https://images.pexels.com/photos/2387872/pexels-photo-2387872.jpeg'
+    image: '/history.png'
   }
 ];
 
