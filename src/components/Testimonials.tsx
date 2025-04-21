@@ -6,7 +6,7 @@ const testimonials = [
     id: 1,
     name: 'Ram Sharma',
     location: 'Mumbai, Maharashtra',
-    image: 'https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    image: 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     text: 'The kothaligad trek was challenging but absolutely worth it! The panoramic views from the summit after conquering the 1,100m elevation gain were truly breathtaking.',
     rating: 5,
     trek: 'Kothaligad Trek'
@@ -15,7 +15,7 @@ const testimonials = [
     id: 2,
     name: 'Riya Joshi',
     location: 'Nagpur, Maharashtra',
-    image: 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    image: 'https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     text: 'I found the historical inscriptions inside the caves fascinating, telling stories of the forts rich past. The sunrise viewpoint was my favorite spot - we camped overnight and the morning view was spectacular',
     rating: 5,
     trek: 'Kothaligad Trek'
